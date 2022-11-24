@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Atuo como programador web há um ano e meio e busco continuamente ampliar meus conhecimentos utilizando as mais diversas tecnologias presentes no mercado. <br><br>Acredito que a tecnologia pode invoar e tranformar a vida das pessoas, e meu sonho é desenvolver algo que possa auxiliar a sociedade como um todo.<br><br>Aqui você pode encontrar alguns dos meus projetos pessoais
+Atuo como programador web há um ano e meio e busco continuamente ampliar meus conhecimentos <br> utilizando as mais diversas tecnologias presentes no mercado. <br><br>Acredito que a tecnologia pode invoar e tranformar a vida das pessoas, <br> e meu sonho é desenvolver algo que possa auxiliar a sociedade como um todo.<br><br>Aqui você pode encontrar alguns dos meus projetos pessoais
 
 
 ## 🌐 Redes Sociais:
